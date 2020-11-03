@@ -10,7 +10,7 @@ Videostitcher is NOT finished now. Use it at your own Risk!!!**
 Videostitcher is supposed to be used for stitching **large amounts of corrupted videofiles** in timely correct order together after a datacrash and data recovery of disks/storage devices, recovered by (linux) testdisk and photorec on a fast desktop PC or server
 
 **Usage:**
-Currently it is still not very usable by a simple commandline, because of the almost completely different usage of underlying ffmpeg, mplayer and avifix binaries. It creates currently in this version a json-file containing all data of each video file and a bash file containing the concatenation command(lines) The finished videostiter will either cerat
+Currently it is still not very usable by a simple commandline, because of the almost completely different usage of underlying ffmpeg, mplayer and avifix binaries. It creates currently in this version a json-file containing all data of each video file and a batch (bash) file containing the concatenation command(lines) The finished videostiter will either create the resulting files by self (by python task-switcher module) or generate a batch file containing all commands 
 **YOU HAVE TO KNOW PYTHON2/3 VERY WELL and to use sometimes some online translator to understand some german comments**
 
 **Depends:**
