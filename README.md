@@ -17,7 +17,7 @@ Currently it is still not very usable by a simple commandline, because of the al
 Python2/3, pymediainfo, pandas, ffmpeg, mplayer and avifix!!!
 
 **Remarks:**
-Due to afore mentioned problems with the not uniform and not very easy (*really said: completely weird and messy*) commandlines and videoformats/standards of ffmpeg, mplayer, avifix etc., it is still 
+Due to afore mentioned problems with the not uniform and not very easy (*really said: completely weird and messy-DO NOT TRY TO RESEARCH FOR AN EASIER METHOD - YOU'll DROWN INTO WEB FOR A LONG TIME- Believe me!*) commandlines and videoformats/standards of ffmpeg, mplayer, avifix etc., it is still 
 a Trial and Error to get correct result. **Everyone is encouraged to make it better in usage etc.**
 
 
